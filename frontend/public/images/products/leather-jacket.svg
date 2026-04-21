@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#f8fafc"/>
+  <path d="M150 90 200 66l50 24 36 70-30 146H144L114 160z" fill="#111827"/>
+  <path d="M200 66v240" stroke="#94a3b8" stroke-width="6"/>
+  <path d="M148 120h36l16 26" fill="none" stroke="#e5e7eb" stroke-width="5" stroke-linecap="round"/>
+  <path d="M252 120h-36l-16 26" fill="none" stroke="#e5e7eb" stroke-width="5" stroke-linecap="round"/>
+  <text x="200" y="382" text-anchor="middle" font-family="Arial" font-size="24" fill="#334155">Leather Jacket</text>
+</svg>

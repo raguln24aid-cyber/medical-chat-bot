@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#f0fdf4"/>
+  <path d="M80 252c30 0 58-26 93-26h91c31 0 56 25 56 56H80z" fill="#16a34a"/>
+  <path d="M104 198h78l24 30h-72z" fill="#14532d"/>
+  <path d="M196 208h62l24 20h-52z" fill="#bbf7d0"/>
+  <rect x="86" y="274" width="234" height="14" rx="7" fill="#374151"/>
+  <text x="200" y="382" text-anchor="middle" font-family="Arial" font-size="24" fill="#166534">Ultraboost 23</text>
+</svg>

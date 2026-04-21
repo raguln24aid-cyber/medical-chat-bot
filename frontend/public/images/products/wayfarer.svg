@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#fef2f2"/>
+  <path d="M92 164h76c28 0 36 18 36 38v8H122c-18 0-30-12-30-30z" fill="#111827"/>
+  <path d="M308 164h-76c-28 0-36 18-36 38v8h82c18 0 30-12 30-30z" fill="#111827"/>
+  <rect x="188" y="180" width="24" height="10" rx="5" fill="#374151"/>
+  <path d="M90 168 66 148" stroke="#1f2937" stroke-width="8" stroke-linecap="round"/>
+  <path d="M310 168 334 148" stroke="#1f2937" stroke-width="8" stroke-linecap="round"/>
+  <text x="200" y="382" text-anchor="middle" font-family="Arial" font-size="24" fill="#991b1b">Wayfarer Sunglasses</text>
+</svg>

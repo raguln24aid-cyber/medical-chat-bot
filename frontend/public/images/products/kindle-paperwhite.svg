@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#fefce8"/>
+  <rect x="118" y="52" width="164" height="286" rx="18" fill="#334155"/>
+  <rect x="132" y="68" width="136" height="254" rx="10" fill="#f8fafc"/>
+  <path d="M165 225c18-45 52-62 82-58-18 12-20 32-10 44-19-1-32 4-46 22" fill="#16a34a"/>
+  <line x1="154" y1="128" x2="246" y2="128" stroke="#cbd5e1" stroke-width="6"/>
+  <line x1="154" y1="145" x2="234" y2="145" stroke="#e2e8f0" stroke-width="6"/>
+  <text x="200" y="382" text-anchor="middle" font-family="Arial" font-size="24" fill="#854d0e">Kindle Paperwhite</text>
+</svg>

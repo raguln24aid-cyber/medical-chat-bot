@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#ecfccb"/>
+  <ellipse cx="200" cy="240" rx="112" ry="36" fill="#22c55e"/>
+  <ellipse cx="210" cy="230" rx="112" ry="36" fill="#86efac"/>
+  <circle cx="110" cy="230" r="20" fill="#16a34a"/>
+  <path d="M124 230h62" stroke="#14532d" stroke-width="4" stroke-linecap="round"/>
+  <text x="200" y="382" text-anchor="middle" font-family="Arial" font-size="24" fill="#3f6212">Yoga Mat Premium</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#eff6ff"/>
+  <rect x="86" y="72" width="228" height="150" rx="12" fill="#1e293b"/>
+  <rect x="98" y="84" width="204" height="126" rx="6" fill="#38bdf8"/>
+  <path d="M66 246h268l-26 28H92z" fill="#94a3b8"/>
+  <rect x="170" y="252" width="60" height="8" rx="4" fill="#64748b"/>
+  <text x="200" y="382" text-anchor="middle" font-family="Arial" font-size="24" fill="#1d4ed8">MacBook Pro M3</text>
+</svg>

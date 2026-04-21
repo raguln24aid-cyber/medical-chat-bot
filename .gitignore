@@ -1,0 +1,15 @@
+backend/node_modules/
+frontend/node_modules/
+frontend/build/
+
+backend/.env
+
+backend/backend-server.log
+frontend/frontend-server.log
+*.log
+
+tmpclaude-*
+backend/tmpclaude-*
+
+.DS_Store
+Thumbs.db
